@@ -13,3 +13,4 @@
 # limitations under the License.
 
 runtime: python39
+dev_appserver.py app.yaml
